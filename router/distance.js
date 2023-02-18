@@ -1,10 +1,10 @@
 const express = require("express");
 const router = express.Router();
 
-const {distace}= require ("../controllers/distance")
+const {distance}= require ("../controllers/distance")
 
 
-router.get("/",distace)
+router.get("/",distance)
 
 
 module.exports=router;

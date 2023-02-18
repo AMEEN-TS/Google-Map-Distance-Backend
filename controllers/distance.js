@@ -3,7 +3,7 @@ const { Client } = require('@googlemaps/google-maps-services-js');
 
 
 
-module.exports.distace = async (req, res) => {
+module.exports.distance = async (req, res) => {
   try {
     const { from, to } = req.query;
     const client = new Client({});
