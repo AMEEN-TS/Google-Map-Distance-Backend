@@ -11,7 +11,8 @@ This project is a simple API that calculates the distance between two locations 
 
 1. Clone the respository
 ``` bash
-git clone https://github.com/YOUR-USERNAME/distance-calculator.git
+git clone https://github.com/YOUR-USERNAME/Google-Map-Distance-Backend.git
+
 
 ```
 2.Install dependencies:
